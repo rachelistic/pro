@@ -1,0 +1,2 @@
+WEB_INF/classes/co/ciec/result/mappers 
+폴더에 덮어쓰시고 서버 리스타트 하면 됩니다.
